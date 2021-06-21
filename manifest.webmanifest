@@ -1,0 +1,20 @@
+{
+  "name": " ",
+  "short_name": " ",
+  "description": "PWA",
+
+  "icons": [
+    {
+      "src": "assets/layouts/layout2/img/icon192x192b.png",
+      "sizes": "192x192"
+    },
+
+    {
+      "src": "assets/layouts/layout2/img/icon512x512b.png",
+      "sizes": "512x512"
+    }
+  ],
+
+  "display": "fullscreen",
+  "start_url": "/"
+}
